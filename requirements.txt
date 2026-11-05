@@ -1,0 +1,3 @@
+# BaseForge — 零依赖项目 / Zero-dependency project
+# 无需任何第三方依赖，仅需 Python 3.8+ 标准库。
+# No third-party dependencies required; only the Python 3.8+ standard library.
